@@ -1,0 +1,22 @@
+{
+  "name": "@nails/utils",
+  "version": "0.0.1",
+  "description": "A package for the Nails framework and ORM shared utils.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nails-js/utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "Kito Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nails-js/utils/issues"
+  },
+  "homepage": "https://github.com/nails-js/utils#readme"
+}
