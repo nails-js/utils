@@ -1,6 +1,6 @@
 {
   "name": "@nails/utils",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A package for the Nails framework and ORM shared utils.",
   "main": "index.js",
   "scripts": {
